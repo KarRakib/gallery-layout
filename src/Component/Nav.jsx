@@ -34,7 +34,7 @@ const Nav = () => {
            
                 <button onClick={handleDeleteSelectedImages} className='text-xl font-semibold text-rose-600'> Delete Files </button>
             </div> : <h1 className='font-bold text-xl'>Gallery</h1> }
-            <hr />
+            <hr className='my-3' />
         </div>
     );
 };

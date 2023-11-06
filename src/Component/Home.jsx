@@ -1,5 +1,5 @@
 import React from 'react';
-import WithoutImage from './WithoutImage';
+import WithoutImage from './ImageGallery';
 
 
 const Home = () => {
